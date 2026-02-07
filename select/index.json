@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Float",
+  "base_artist": "Samm Henshaw",
+  "createdAt": "2026-02-07T12:17:08.340022Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Float Along - Fill Your Lungs",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_Float_Along_-_Fill_Your_Lungs_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Float Along - Fill Your Lungs",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/02_Float_Along_-_Fill_Your_Lungs_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Float",
+      "artist": "Tim & The Glory Boys",
+      "has_synced": true,
+      "path": "select/03_Float_Tim_&_The_Glory_Boys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Float On",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/04_Float_On_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Coffin Was So Light I Thought It Might Float Away",
+      "artist": "Eiafuawn",
+      "has_synced": true,
+      "path": "select/05_The_Coffin_Was_So_Light_I_Thought_It_Might_Float_Away_Eiafuawn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Coke (Float remix)",
+      "artist": "Dr. Alban",
+      "has_synced": false,
+      "path": "select/06_No_Coke_(Float_remix)_Dr._Alban.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We All Float",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/07_We_All_Float_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We All Float - Remix",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/08_We_All_Float_-_Remix_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We All Float (Remix)",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/09_We_All_Float_(Remix)_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Float On",
+      "artist": "Blackbird Blackbird",
+      "has_synced": false,
+      "path": "select/10_Float_On_Blackbird_Blackbird.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Float Away",
+      "artist": "Elohim feat. Nitti Gritti",
+      "has_synced": true,
+      "path": "select/11_Float_Away_Elohim_feat._Nitti_Gritti.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Float Away",
+      "artist": "Elohim",
+      "has_synced": true,
+      "path": "select/12_Float_Away_Elohim.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Arp II: Float Away",
+      "artist": "Dan Deacon",
+      "has_synced": true,
+      "path": "select/13_Arp_II__Float_Away_Dan_Deacon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Float On [feat. Charli XCX]",
+      "artist": "Danny Brown",
+      "has_synced": true,
+      "path": "select/14_Float_On_[feat._Charli_XCX]_Danny_Brown.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Float",
+      "artist": "Samm Henshaw",
+      "has_synced": false,
+      "path": "select/pl_01_Float_Samm_Henshaw.txt"
+    }
+  ]
+}
